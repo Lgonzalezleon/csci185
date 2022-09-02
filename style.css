@@ -9,10 +9,14 @@ body {
 header, section {
     padding: 20px;
 }
-p, li {
-    line-height: 1.5em;
+h1 {
+    border: 2px solid blue;
+    border-radius: 5px;
 }
-
+h2 {
+    width: 200px;
+    border-bottom: 4px solid green;
+}
 #inspiration {
     background-color: #F0F0F0;
     padding-top: 40px;
