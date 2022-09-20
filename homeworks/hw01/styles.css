@@ -1,0 +1,52 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body * {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+ nav{
+    text-align: right;
+ }
+
+ a{
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+ a:link{
+    text-decoration: none;
+ }
+
+header {
+    background-color:rgb(7, 122, 253);
+    text-align: center;
+
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color:white;
+}
+#profile-pic{
+    border-radius:100%
+}
+#about{
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+#projects{
+    margin-left: 10vw;
+    margin-right: 10vw;
+    background: rgb(204, 204, 204)
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
